@@ -1,6 +1,9 @@
 # CyonRemake version 1.1.0.0 <br>
+Los dos clientes se conectan al emulador pero no se envia el primer mensa Hello Conect (HC) al cliente por que falta armar la clase RealmThread
 ![alt text](https://raw.githubusercontent.com/XaferDev/CyonRemake/master/2.png)
+Ejemplo de traduccion de la clase principal de java a c#
 ![alt text](https://raw.githubusercontent.com/XaferDev/CyonRemake/master/5.png)
+Ejemplo de la clase RealmServer
 ![alt text](https://raw.githubusercontent.com/XaferDev/CyonRemake/master/6.png)
 
 Este proyecto es la traduccion de codigo Java a C# del emulador de dofus Cyon
