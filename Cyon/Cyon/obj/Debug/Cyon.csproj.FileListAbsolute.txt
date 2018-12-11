@@ -1,0 +1,9 @@
+C:\Users\Xerooh\Desktop\Server\Cyon\Cyon\bin\Debug\Cyon.exe.config
+C:\Users\Xerooh\Desktop\Server\Cyon\Cyon\bin\Debug\Cyon.exe
+C:\Users\Xerooh\Desktop\Server\Cyon\Cyon\bin\Debug\Cyon.pdb
+C:\Users\Xerooh\Desktop\Server\Cyon\Cyon\obj\Debug\Cyon.csprojAssemblyReference.cache
+C:\Users\Xerooh\Desktop\Server\Cyon\Cyon\obj\Debug\Cyon.csproj.CoreCompileInputs.cache
+C:\Users\Xerooh\Desktop\Server\Cyon\Cyon\obj\Debug\Cyon.exe
+C:\Users\Xerooh\Desktop\Server\Cyon\Cyon\obj\Debug\Cyon.pdb
+C:\Users\Xerooh\Desktop\Server\Cyon\Cyon\bin\Debug\MySql.Data.dll
+C:\Users\Xerooh\Desktop\Server\Cyon\Cyon\obj\Debug\Cyon.csproj.CopyComplete
