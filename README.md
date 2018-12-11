@@ -1,5 +1,7 @@
 # CyonRemake version 1.1.0.0 <br>
 ![alt text](https://raw.githubusercontent.com/XaferDev/CyonRemake/master/2.png)
+![alt text](https://raw.githubusercontent.com/XaferDev/CyonRemake/master/5.png)
+![alt text](https://raw.githubusercontent.com/XaferDev/CyonRemake/master/6.png)
 
 Este proyecto es la traduccion de codigo Java a C# del emulador de dofus Cyon
 Aun esta en fase alpha (es muy nuevo)<br>
